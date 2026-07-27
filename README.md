@@ -35,3 +35,4 @@ Kaggle competition [Titanic - Machine Learning from Disaster](https://www.kaggle
 
 Python, Pandas, NumPy, scikit-learn (Pipeline, ColumnTransformer, RandomForestClassifier), Matplotlib, Seaborn
 
+<img width="1293" height="576" alt="image" src="https://github.com/user-attachments/assets/6f3331c3-761b-48ad-8d2f-af14a498765d" />
